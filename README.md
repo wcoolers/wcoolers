@@ -1,4 +1,4 @@
-![banner showing adegoke's details](linkedin-bg.png)
+![banner showing adegoke's details](./linkedIn-bg.png)
 ### Hi there 👋
 
 - 🔭 I’m currently working on designing websites for two lawfirms
