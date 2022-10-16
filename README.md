@@ -8,4 +8,4 @@
 - 💬 Ask me about anything `javascript`
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/adegoke-a1)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can swim and do a few backflips. I also have a law degree. 
+- ⚡ Fun fact: I can swim and do a few backflips. 
