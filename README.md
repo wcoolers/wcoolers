@@ -1,11 +1,11 @@
 ![banner showing adegoke's details](./office1-bg.jpg)
 ### Hi there 👋
 
-- 🔭 I’m currently working on designing websites for two lawfirms
+- 🔭 I’m currently studying systems engineering at Sheridan College.
 - 🌱 I’m currently learning `java`
 - 👯 I’m looking to collaborate on open source projects or regular freelance
-- 🤔 I’m looking for help with `java` and `sprintboot`.
+- 🤔 I’m looking for help with learning how to skate.
 - 💬 Ask me about anything `javascript`
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/adegoke-a1)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can swim and do a few backflips. 
+- ⚡ Fun fact: I can do a few backflips. 
