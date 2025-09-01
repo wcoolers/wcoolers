@@ -1,8 +1,8 @@
 ![banner showing adegoke's details](./office1-bg.jpg)
 ### Hi there 👋
 
-- 🔭 I’m currently learning software development and network engineering at Sheridan College.
-- 🌱 I’m teaching myself `C` and `C++`
+- 🔭 I studied software development and network engineering at Sheridan College.
+- 🌱 I’m currently teaching myself `C` and `C++`
 - 👯 I’m looking to collaborate on open-source projects or regular freelance
 - 💬 Ask me about anything `java` and `springboot`
 - 🤔 I’m looking for help with learning how to skate.
